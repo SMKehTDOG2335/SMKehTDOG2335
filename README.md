@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Steve 👋
 
-<!--
-**SMKehTDOG2335/SMKehTDOG2335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI Engineer** building LLM/RAG systems and quantitative models.
+~5 years across HP, Toyota and Reward360. Currently based in Bangalore, India.
 
-Here are some ideas to get you started:
+### What I work on
+- 🤖 **GenAI & RAG**: LangChain pipelines, vector search, OCI Generative AI, LLM security
+- 📈 **Quant finance**: Monte Carlo simulation, options pricing (Longstaff-Schwartz LSM), algorithmic trading on Indian equity derivatives
+- ⚙️ **Backend at scale**: Java / Spring Boot. Scaled a payment gateway to 500K+ daily transactions at sub-200ms p95
+- 🛒 **Automation**: e-commerce catalogue automation and browser-driven ERP workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+| Project | What it does |
+|---|---|
+| [monte-carlo-options-pricing](https://github.com/SMKehTDOG2335/monte-carlo-options-pricing) | American & European options pricing with LSM + Monte Carlo, live data via yfinance |
+| [Race-Monte-Carlo-Simulation](https://github.com/SMKehTDOG2335/Race-Monte-Carlo-Simulation) | Motorsport strategy simulator: lap-time uncertainty, tyre degradation, telemetry viz |
+| [portfolio](https://github.com/SMKehTDOG2335/portfolio) | Personal portfolio incl. a dedicated quant analytics page |
+
+### Tech stack
+`Python` `Java` `Spring Boot` `React` `LangChain` `RAG` `Oracle Cloud Infrastructure` `Pandas` `NumPy` `Playwright`
+
+### Certifications
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+- Oracle AI Vector Search Certified Professional
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Certified LLM Security Expert (CLLMSE), Red Team Leaders
+
+### Education
+B.E. Automobile Engineering · MBA International Business, Pondicherry University
