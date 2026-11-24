@@ -14,7 +14,6 @@
 |---|---|
 | [monte-carlo-options-pricing](https://github.com/SMKehTDOG2335/monte-carlo-options-pricing) | American & European options pricing with LSM + Monte Carlo, live data via yfinance |
 | [Race-Monte-Carlo-Simulation](https://github.com/SMKehTDOG2335/Race-Monte-Carlo-Simulation) | Motorsport strategy simulator: lap-time uncertainty, tyre degradation, telemetry viz |
-| [portfolio](https://github.com/SMKehTDOG2335/portfolio) | Personal portfolio incl. a dedicated quant analytics page |
 
 ### Tech stack
 `Python` `Java` `Spring Boot` `React` `LangChain` `RAG` `Oracle Cloud Infrastructure` `Pandas` `NumPy` `Playwright`
@@ -27,4 +26,7 @@
 - Certified LLM Security Expert (CLLMSE), Red Team Leaders
 
 ### Education
-B.E. Automobile Engineering · MBA International Business, Pondicherry University
+B.E. Automobile Engineering · MBA International Business
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/er-steve-mathews-korah-229632209/)
